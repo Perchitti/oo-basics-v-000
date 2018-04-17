@@ -8,6 +8,7 @@ end
 
 def cobble
   puts "Your show is as good as new!"
+  self.new
 end
 
 
